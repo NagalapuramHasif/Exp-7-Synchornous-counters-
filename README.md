@@ -32,7 +32,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 Four-bit “Up” Counter
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![Screenshot 2023-11-26 171521](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/99290a87-0d79-4dfe-a970-14c4bae1eb26)
 
 
 
@@ -41,13 +41,15 @@ Four-bit “Up” Counter
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
 
+![Screenshot 2023-11-26 171915](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/7b3ce63e-0980-45bd-9010-de0ba37e89cd)
 
 4-bit Count Down Counter
 ### Procedure
 /* write all the steps invloved */
 
+![Screenshot 2023-11-26 171804](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/73d1d0a9-fc8f-4418-a40a-a733fd569f7d)
+![Screenshot 2023-11-26 172417](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/abf30604-482d-4ca7-97fa-b6ac629f6c75)
 
 
 ### PROGRAM 
@@ -74,13 +76,17 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![Screenshot 2023-11-26 171402](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/3bc60a83-b16f-40ff-a2a1-c103b0e36c41)
 
 
+![Screenshot 2023-11-26 171857](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/da17e025-fd9b-4266-933c-bb38dd535712)
 
 
 ### TRUTH TABLE 
+![OIP](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/79434afe-0ce7-4478-bb65-e36637054f58)
 
 
+![OIP](https://github.com/NagalapuramHasif/Exp-7-Synchornous-counters-/assets/149365567/79434afe-0ce7-4478-bb65-e36637054f58)
 
 
 
